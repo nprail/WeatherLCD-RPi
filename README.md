@@ -15,4 +15,4 @@ That's all! The weather data should apear on your LCD!
 
 ## Built with...
 * [fivdi/lcd](https://github.com/fivdi/lcd)
-* [forecast](https://www.npmjs.com/package/forecast)
+* [forecast](https://github.com/jameswyse/forecast)
